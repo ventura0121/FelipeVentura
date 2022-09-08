@@ -1,3 +1,4 @@
+![Felipe Ventura (10)](https://user-images.githubusercontent.com/18333562/189187813-b78e8a70-8fbc-44e2-8676-a8efad54d8f0.png)
 
 Hi 👋 My name is Felipe Ventura
 ===============================
