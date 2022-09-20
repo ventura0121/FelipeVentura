@@ -9,7 +9,7 @@ Full-Stack Software Engineer
 I am a software developer driven by the urge to create and build. With a background in construction engineering, I am always willing to get my hands dirty and take on new challenges. I am passionate about automating and finding efficient ways of problem-solving using clean and precise code to improve functionality.
 
 *   🌍  I'm based in New York Metropolitan Area
-*   🖥️  See my portfolio at [MyPortfolio](http://felipeventura.netlify.app/)
+*   🖥️  See my portfolio at [MyPortfolio](https://felipesportfolio.netlify.app/)
 *   ✉️  You can contact me at [ventura0121@gmail.com](mailto:ventura0121@gmail.com)
 *   🚀  I'm currently working on [Milano's Masonry Website](http://milanosmasonry.netlify.app/)
 *   🧠  I'm learning Javascript and Python
